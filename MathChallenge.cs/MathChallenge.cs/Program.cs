@@ -54,6 +54,25 @@ namespace MathChallenge.cs
 
             Console.WriteLine(firstName + num3);
 
+            //Boolean Logic (&&)
+            int packageWidth = 10;
+            int packageHeight = 25;
+            bool tooBig = (packageHeight > 25 && packageWidth > 25);
+            Console.WriteLine(tooBig);
+
+            //Boolean Ligic (||)
+            bool tooBig2 = (packageHeight > 25 || packageWidth > 25);
+            Console.WriteLine(tooBig2);
+
+            int bankAccountBalance = 500;
+            bool isInARockBand = false;
+            string name = "Jesse";
+            bool isReallyCool = (bankAccountBalance > 100000 || isInARockBand || name == "Jesse");
+            Console.WriteLine(isReallyCool);
+
+
+          
+
             Console.ReadLine();
         }
     }
