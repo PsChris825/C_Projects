@@ -17,7 +17,7 @@ namespace BooleanLogicSubmissionAssignment.cs
             string tickets = Console.ReadLine();
             int tikAmount = Convert.ToInt32(tickets);
             Console.WriteLine("Qualified?");
-            bool qualified = (age1 >= 32 && dui1!=true && tikAmount <= 3);
+            bool qualified = (age1 > 15 && dui1!=true && tikAmount <= 3);
             Console.WriteLine(qualified);
             Console.ReadLine();
         }
