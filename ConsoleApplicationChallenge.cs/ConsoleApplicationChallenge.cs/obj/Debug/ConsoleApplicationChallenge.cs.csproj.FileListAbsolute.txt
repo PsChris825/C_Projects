@@ -1,0 +1,8 @@
+C:\Users\pillo\Documents\GitHub\C#_Projects\ConsoleApplicationChallenge.cs\ConsoleApplicationChallenge.cs\bin\Debug\ConsoleApplicationChallenge.cs.exe.config
+C:\Users\pillo\Documents\GitHub\C#_Projects\ConsoleApplicationChallenge.cs\ConsoleApplicationChallenge.cs\bin\Debug\ConsoleApplicationChallenge.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\ConsoleApplicationChallenge.cs\ConsoleApplicationChallenge.cs\bin\Debug\ConsoleApplicationChallenge.cs.pdb
+C:\Users\pillo\Documents\GitHub\C#_Projects\ConsoleApplicationChallenge.cs\ConsoleApplicationChallenge.cs\obj\Debug\ConsoleApplicationChallenge.cs.csproj.AssemblyReference.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\ConsoleApplicationChallenge.cs\ConsoleApplicationChallenge.cs\obj\Debug\ConsoleApplicationChallenge.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\ConsoleApplicationChallenge.cs\ConsoleApplicationChallenge.cs\obj\Debug\ConsoleApplicationChallenge.cs.csproj.CoreCompileInputs.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\ConsoleApplicationChallenge.cs\ConsoleApplicationChallenge.cs\obj\Debug\ConsoleApplicationChallenge.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\ConsoleApplicationChallenge.cs\ConsoleApplicationChallenge.cs\obj\Debug\ConsoleApplicationChallenge.cs.pdb

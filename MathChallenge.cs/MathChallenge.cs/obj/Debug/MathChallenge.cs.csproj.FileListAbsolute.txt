@@ -1,0 +1,8 @@
+C:\Users\pillo\Documents\GitHub\C#_Projects\MathChallenge.cs\MathChallenge.cs\bin\Debug\MathChallenge.cs.exe.config
+C:\Users\pillo\Documents\GitHub\C#_Projects\MathChallenge.cs\MathChallenge.cs\bin\Debug\MathChallenge.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\MathChallenge.cs\MathChallenge.cs\bin\Debug\MathChallenge.cs.pdb
+C:\Users\pillo\Documents\GitHub\C#_Projects\MathChallenge.cs\MathChallenge.cs\obj\Debug\MathChallenge.cs.csproj.AssemblyReference.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\MathChallenge.cs\MathChallenge.cs\obj\Debug\MathChallenge.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\MathChallenge.cs\MathChallenge.cs\obj\Debug\MathChallenge.cs.csproj.CoreCompileInputs.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\MathChallenge.cs\MathChallenge.cs\obj\Debug\MathChallenge.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\MathChallenge.cs\MathChallenge.cs\obj\Debug\MathChallenge.cs.pdb

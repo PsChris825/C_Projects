@@ -1,0 +1,8 @@
+C:\Users\pillo\Documents\GitHub\C#_Projects\Math and Comparison Operator Assignment\MathandComparisonOperatorAssignment.cs\bin\Debug\MathandComparisonOperatorAssignment.cs.exe.config
+C:\Users\pillo\Documents\GitHub\C#_Projects\Math and Comparison Operator Assignment\MathandComparisonOperatorAssignment.cs\bin\Debug\MathandComparisonOperatorAssignment.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\Math and Comparison Operator Assignment\MathandComparisonOperatorAssignment.cs\bin\Debug\MathandComparisonOperatorAssignment.cs.pdb
+C:\Users\pillo\Documents\GitHub\C#_Projects\Math and Comparison Operator Assignment\MathandComparisonOperatorAssignment.cs\obj\Debug\MathandComparisonOperatorAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\Math and Comparison Operator Assignment\MathandComparisonOperatorAssignment.cs\obj\Debug\MathandComparisonOperatorAssignment.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\Math and Comparison Operator Assignment\MathandComparisonOperatorAssignment.cs\obj\Debug\MathandComparisonOperatorAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\Math and Comparison Operator Assignment\MathandComparisonOperatorAssignment.cs\obj\Debug\MathandComparisonOperatorAssignment.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\Math and Comparison Operator Assignment\MathandComparisonOperatorAssignment.cs\obj\Debug\MathandComparisonOperatorAssignment.cs.pdb
