@@ -1,0 +1,8 @@
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\DoWhile.cs\DoWhile.cs\bin\Debug\DoWhile.cs.exe.config
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\DoWhile.cs\DoWhile.cs\bin\Debug\DoWhile.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\DoWhile.cs\DoWhile.cs\bin\Debug\DoWhile.cs.pdb
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\DoWhile.cs\DoWhile.cs\obj\Debug\DoWhile.cs.csproj.AssemblyReference.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\DoWhile.cs\DoWhile.cs\obj\Debug\DoWhile.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\DoWhile.cs\DoWhile.cs\obj\Debug\DoWhile.cs.csproj.CoreCompileInputs.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\DoWhile.cs\DoWhile.cs\obj\Debug\DoWhile.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\DoWhile.cs\DoWhile.cs\obj\Debug\DoWhile.cs.pdb
