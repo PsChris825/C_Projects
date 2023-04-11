@@ -1,0 +1,8 @@
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\StringChallenge.cs\StringChallenge.cs\bin\Debug\StringChallenge.cs.exe.config
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\StringChallenge.cs\StringChallenge.cs\bin\Debug\StringChallenge.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\StringChallenge.cs\StringChallenge.cs\bin\Debug\StringChallenge.cs.pdb
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\StringChallenge.cs\StringChallenge.cs\obj\Debug\StringChallenge.cs.csproj.AssemblyReference.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\StringChallenge.cs\StringChallenge.cs\obj\Debug\StringChallenge.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\StringChallenge.cs\StringChallenge.cs\obj\Debug\StringChallenge.cs.csproj.CoreCompileInputs.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\StringChallenge.cs\StringChallenge.cs\obj\Debug\StringChallenge.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\StringChallenge.cs\StringChallenge.cs\obj\Debug\StringChallenge.cs.pdb

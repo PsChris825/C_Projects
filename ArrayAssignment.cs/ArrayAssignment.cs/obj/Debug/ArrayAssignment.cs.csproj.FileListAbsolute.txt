@@ -1,0 +1,8 @@
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ArrayAssignment.cs\ArrayAssignment.cs\bin\Debug\ArrayAssignment.cs.exe.config
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ArrayAssignment.cs\ArrayAssignment.cs\bin\Debug\ArrayAssignment.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ArrayAssignment.cs\ArrayAssignment.cs\bin\Debug\ArrayAssignment.cs.pdb
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ArrayAssignment.cs\ArrayAssignment.cs\obj\Debug\ArrayAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ArrayAssignment.cs\ArrayAssignment.cs\obj\Debug\ArrayAssignment.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ArrayAssignment.cs\ArrayAssignment.cs\obj\Debug\ArrayAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ArrayAssignment.cs\ArrayAssignment.cs\obj\Debug\ArrayAssignment.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ArrayAssignment.cs\ArrayAssignment.cs\obj\Debug\ArrayAssignment.cs.pdb

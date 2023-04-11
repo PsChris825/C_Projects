@@ -1,0 +1,8 @@
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Strings.cs\Strings.cs\bin\Debug\Strings.cs.exe.config
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Strings.cs\Strings.cs\bin\Debug\Strings.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Strings.cs\Strings.cs\bin\Debug\Strings.cs.pdb
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Strings.cs\Strings.cs\obj\Debug\Strings.cs.csproj.AssemblyReference.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Strings.cs\Strings.cs\obj\Debug\Strings.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Strings.cs\Strings.cs\obj\Debug\Strings.cs.csproj.CoreCompileInputs.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Strings.cs\Strings.cs\obj\Debug\Strings.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Strings.cs\Strings.cs\obj\Debug\Strings.cs.pdb
