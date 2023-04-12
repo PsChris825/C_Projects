@@ -23,7 +23,7 @@ namespace ArrayAssignment.cs
             string index1 = Console.ReadLine();
             int indexS1 = Convert.ToInt32(index1);
 
-            if (indexS1 > 4)
+            if (indexS1 < 0 || indexS1 > arrayString.Length - 1)
             {
                 Console.WriteLine("User's select index does not exist");
             }
@@ -49,7 +49,7 @@ namespace ArrayAssignment.cs
             string index3 = Console.ReadLine();
             int indexL3 = Convert.ToInt32(index3);
 
-            if (indexL3 < 0 || indexL3 > arrayInt.Length - 1)
+            if (indexL3 < 0 || indexL3 > stringList.Count - 1)
             {
                 Console.WriteLine("User's select index does not exist");
             }
