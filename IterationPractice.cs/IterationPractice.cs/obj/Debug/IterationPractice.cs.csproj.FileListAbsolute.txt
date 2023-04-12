@@ -1,0 +1,8 @@
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\IterationPractice.cs\IterationPractice.cs\bin\Debug\IterationPractice.cs.exe.config
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\IterationPractice.cs\IterationPractice.cs\bin\Debug\IterationPractice.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\IterationPractice.cs\IterationPractice.cs\bin\Debug\IterationPractice.cs.pdb
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\IterationPractice.cs\IterationPractice.cs\obj\Debug\IterationPractice.cs.csproj.AssemblyReference.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\IterationPractice.cs\IterationPractice.cs\obj\Debug\IterationPractice.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\IterationPractice.cs\IterationPractice.cs\obj\Debug\IterationPractice.cs.csproj.CoreCompileInputs.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\IterationPractice.cs\IterationPractice.cs\obj\Debug\IterationPractice.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\IterationPractice.cs\IterationPractice.cs\obj\Debug\IterationPractice.cs.pdb
