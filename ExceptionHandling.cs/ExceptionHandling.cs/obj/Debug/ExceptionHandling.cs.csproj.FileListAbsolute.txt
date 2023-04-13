@@ -1,0 +1,8 @@
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ExceptionHandling.cs\ExceptionHandling.cs\bin\Debug\ExceptionHandling.cs.exe.config
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ExceptionHandling.cs\ExceptionHandling.cs\bin\Debug\ExceptionHandling.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ExceptionHandling.cs\ExceptionHandling.cs\bin\Debug\ExceptionHandling.cs.pdb
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ExceptionHandling.cs\ExceptionHandling.cs\obj\Debug\ExceptionHandling.cs.csproj.AssemblyReference.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ExceptionHandling.cs\ExceptionHandling.cs\obj\Debug\ExceptionHandling.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ExceptionHandling.cs\ExceptionHandling.cs\obj\Debug\ExceptionHandling.cs.csproj.CoreCompileInputs.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ExceptionHandling.cs\ExceptionHandling.cs\obj\Debug\ExceptionHandling.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ExceptionHandling.cs\ExceptionHandling.cs\obj\Debug\ExceptionHandling.cs.pdb
