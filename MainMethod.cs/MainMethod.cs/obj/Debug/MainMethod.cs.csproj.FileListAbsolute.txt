@@ -1,0 +1,8 @@
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\MainMethod.cs\MainMethod.cs\bin\Debug\MainMethod.cs.exe.config
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\MainMethod.cs\MainMethod.cs\bin\Debug\MainMethod.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\MainMethod.cs\MainMethod.cs\bin\Debug\MainMethod.cs.pdb
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\MainMethod.cs\MainMethod.cs\obj\Debug\MainMethod.cs.csproj.AssemblyReference.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\MainMethod.cs\MainMethod.cs\obj\Debug\MainMethod.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\MainMethod.cs\MainMethod.cs\obj\Debug\MainMethod.cs.csproj.CoreCompileInputs.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\MainMethod.cs\MainMethod.cs\obj\Debug\MainMethod.cs.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\MainMethod.cs\MainMethod.cs\obj\Debug\MainMethod.cs.pdb
