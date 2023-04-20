@@ -1,0 +1,8 @@
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ClassSubmission1\ClassSubmission1\bin\Debug\ClassSubmission1.exe.config
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ClassSubmission1\ClassSubmission1\bin\Debug\ClassSubmission1.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ClassSubmission1\ClassSubmission1\bin\Debug\ClassSubmission1.pdb
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ClassSubmission1\ClassSubmission1\obj\Debug\ClassSubmission1.csproj.AssemblyReference.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ClassSubmission1\ClassSubmission1\obj\Debug\ClassSubmission1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ClassSubmission1\ClassSubmission1\obj\Debug\ClassSubmission1.csproj.CoreCompileInputs.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ClassSubmission1\ClassSubmission1\obj\Debug\ClassSubmission1.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ClassSubmission1\ClassSubmission1\obj\Debug\ClassSubmission1.pdb
