@@ -33,6 +33,10 @@ namespace ClassSubmission1
             double sumDouble = math.Add(4.21, 5.39);
             Console.WriteLine(sumDouble);
 
+            double num6 = 4.32;
+            double total = mathOperation.Area(num6);
+            Console.WriteLine(total);
+
             Console.ReadLine();
         }
     }

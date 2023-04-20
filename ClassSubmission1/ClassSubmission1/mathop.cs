@@ -30,3 +30,13 @@ class mathOp
         return num4 + num5;
     }
 }
+
+static class mathOperation
+{
+    public static double Num5 = 4.352;
+
+    public static double Area(double num6)
+    {
+        return Num5 * num6;
+    }
+}
