@@ -1,0 +1,8 @@
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Abtract Assignment 1\Abtract Assignment 1\bin\Debug\Abtract Assignment 1.exe.config
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Abtract Assignment 1\Abtract Assignment 1\bin\Debug\Abtract Assignment 1.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Abtract Assignment 1\Abtract Assignment 1\bin\Debug\Abtract Assignment 1.pdb
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Abtract Assignment 1\Abtract Assignment 1\obj\Debug\Abtract Assignment 1.csproj.AssemblyReference.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Abtract Assignment 1\Abtract Assignment 1\obj\Debug\Abtract Assignment 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Abtract Assignment 1\Abtract Assignment 1\obj\Debug\Abtract Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Abtract Assignment 1\Abtract Assignment 1\obj\Debug\Abtract Assignment 1.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Abtract Assignment 1\Abtract Assignment 1\obj\Debug\Abtract Assignment 1.pdb
