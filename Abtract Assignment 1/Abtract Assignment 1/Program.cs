@@ -13,7 +13,9 @@ namespace Abtract_Assignment_1
             Employee employee = new Employee();
             employee.FirstName = "Sample";
             employee.LastName = "Student";
-            employee.SayName();
+
+            IQuittable quittable = employee;
+            quittable.Quit();
 
             Console.ReadLine();
         }
