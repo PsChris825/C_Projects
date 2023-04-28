@@ -19,26 +19,14 @@ namespace Abtract_Assignment_1
             Console.WriteLine("{0} {1} has quit their job", FirstName, LastName);
         }
 
-        public static bool operator ==(Employee a, Employee b)
+        public static bool operator ==(Employee emp1, Employee emp2)
         {
-            if (a is null &&  b is null) 
-            {
-                return true;
-            }
-            else if a is null || b is null) 
-            {
-                return false;
-            }
-            else
-            {
-                return a.Id == b.Id;
-            }
+            return emp1.Id == emp2.Id;
         }
-        public static bool operator !=(Employee a, Employee b)
+        public static bool operator !=(Employee emp1, Employee emp2)
         {
-            return !(a == b);
+            return !(emp1 == emp2);
         }
-        
     }
 
 }
