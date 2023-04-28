@@ -9,6 +9,7 @@ namespace Abtract_Assignment_1
     class Employee : Person, IQuittable
     {
         public int Id { get; set; }
+        
         public override void SayName()
         {
             Console.WriteLine("Name: {0} {1}", FirstName, LastName);
@@ -25,8 +26,11 @@ namespace Abtract_Assignment_1
         }
         public static bool operator !=(Employee emp1, Employee emp2)
         {
-            return !(emp1 == emp2);
+            return emp1.Id != emp2.Id;
         }
-    }
+
+        
+
+}
 
 }
