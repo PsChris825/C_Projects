@@ -1,0 +1,8 @@
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ParsingEnum\ParsingEnum\bin\Debug\ParsingEnum.exe.config
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ParsingEnum\ParsingEnum\bin\Debug\ParsingEnum.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ParsingEnum\ParsingEnum\bin\Debug\ParsingEnum.pdb
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ParsingEnum\ParsingEnum\obj\Debug\ParsingEnum.csproj.AssemblyReference.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ParsingEnum\ParsingEnum\obj\Debug\ParsingEnum.csproj.SuggestedBindingRedirects.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ParsingEnum\ParsingEnum\obj\Debug\ParsingEnum.csproj.CoreCompileInputs.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ParsingEnum\ParsingEnum\obj\Debug\ParsingEnum.exe
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\ParsingEnum\ParsingEnum\obj\Debug\ParsingEnum.pdb

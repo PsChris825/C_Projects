@@ -1,0 +1,3 @@
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Parsing Enums\Parsing Enums\obj\Debug\Parsing Enums.csproj.AssemblyReference.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Parsing Enums\Parsing Enums\obj\Debug\Parsing Enums.csproj.SuggestedBindingRedirects.cache
+C:\Users\pillo\Documents\GitHub\C#_Projects\C_Projects\Parsing Enums\Parsing Enums\obj\Debug\Parsing Enums.csproj.CoreCompileInputs.cache
