@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace Abtract_Assignment_1
 {
-    class Employee<T> : Person, IQuittable
+    class Employee : Person, IQuittable
     {
         public int Id { get; set; }
-        public List<T> Things { get; set; }
+        //public List Things { get; set; }
 
         public override void SayName()
         {
